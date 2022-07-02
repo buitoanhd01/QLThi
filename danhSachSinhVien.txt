@@ -1,0 +1,8 @@
+sv01,Đặng Tuấn Anh,Hà Nội,09/06/2022,0123456789,CNTT,Đủ điều kiện
+sv02,Đỗ Hoàng Gia Bảo,Hưng Yên,04/06/2022,4508067,CNTT,Không đủ điều kiện
+sv03,Tăng Phương Chi,Hải Phòng,07/06/2022,808871,Điện Tử,Đủ điều kiện
+sv04,Nguyễn Thị Ngân Hà,Thái Nguyên,10/06/2022,804567,Ngoại Ngữ,Đủ điều kiện
+sv05,Nguyễn Lê Hiếu,Hà Nam,02/06/2022,808674,CNTT,Không đủ điều kiện
+sv06,Vũ Minh Tuấn,Phú yên,15/06/2022,807532,Điện Tử,Đủ điều kiện
+sv07,Phan Trọng Trường,Hải Dương,01/01/2001,0123456788,CNTT,Đủ điều kiện
+sv08,Nguyễn B,Hải Dương,01/01/2001,0123456788,CNTT,Đủ điều kiện

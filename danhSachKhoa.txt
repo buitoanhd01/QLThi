@@ -1,0 +1,3 @@
+kh01,CNTT
+kh02,Điện Tử
+kh03,Ngoại Ngữ

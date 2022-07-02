@@ -1,0 +1,4 @@
+m02,Lập trình .NET,04/05/2022,302-A9,CNTT,Phụ,2
+m04,Lập trình Hướng Đối Tượng,04/05/2022,503-A10,CNTT,Phụ,3
+m01,Lập trình Java,30/07/2022,301-A9,CNTT,Chính,1
+m03,Lập trình PHP,04/05/2022,501-A10,CNTT,Chính,3
